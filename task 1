@@ -113,7 +113,7 @@
   <section id="about">
     <div class="container">
       <h2>About Me</h2>
-      <p>Hello! , I'am K.Gayathri , I'm a web developer with a passion for creating beautiful and functional websites using HTML, CSS, JavaScript.</p>
+      <p>Hello! , I'am S.Gayathri , I'm a web developer with a passion for creating beautiful and functional websites using HTML, CSS, JavaScript.</p>
     </div>
   </section>
 
@@ -134,7 +134,7 @@
   <section id="contact">
     <div class="container">
       <h2>Contact Me</h2>
-      <p>Feel free to reach out to me via email: <a href="mailto:your-email@example.com">gayathrik2005@gmail.com</a></p>
+      <p>Feel free to reach out to me via email: <a href="mailto:your-email@example.com">gayathri2005@gmail.com</a></p>
     </div>
   </section>
 
